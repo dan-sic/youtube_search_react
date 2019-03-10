@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a simple Youtube video searching app, build with React.
+
+The app uses Youtube API service. In order to use app, you need to create your own youtube api key and provide it into YoutubeAPI.js file. Otherwise, an app will throw an error.
+
 ## Available Scripts
 
 In the project directory, you can run:
